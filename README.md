@@ -26,6 +26,6 @@ Atualmente Aprofundando Meus Estudos em `Java, Spring Boot, Microsserviços, Clo
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo%20Lopes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardolopesilveira)
-[![GitHub](https://img.shields.io/badge/GitHub-eduardoantoniolopes-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/eduardoantoniolopes)
-[![Email](https://img.shields.io/badge/Email-deveducontato%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:deveducontato@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardolopesilveira)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/eduardoantoniolopes)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:deveducontato@gmail.com)
