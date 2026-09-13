@@ -1,31 +1,26 @@
-# 👋 Olá, eu sou o Eduardo Lopes
+# Eduardo Lopes
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-☕ Foco em **Backend com Java e Spring Boot**  
-🚀 Buscando minha primeira oportunidade profissional em tecnologia
+Backend · Java · Cloud · Dados
 
-## 🛠️ Tecnologias
+Estudante de Análise e Desenvolvimento de Sistemas com Foco em Desenvolvimento Backend, Dados e Arquitetura de Software. Atualmente, Aprofundo Meus Estudos em Java, Spring Boot, Api's Rest e Tecnologias Cloud.
 
-- Java
-- Spring Boot
-- APIs REST
-- SQL & NoSQL
-- AWS
-- Docker
-- Kubernetes
-- Git
-- CI/CD
+## Tecnologias
 
-## 📚 Atualmente estudando
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/APIs_REST-005571?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-Java, Programação Orientada a Objetos, Spring Boot, APIs, Microsserviços e Arquitetura de Software.
+## Contato
 
-## 🎯 Objetivo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardolopesilveira)
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardoantoniolopes)
+[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deveducontato@gmail.com)
 
-Desenvolver soluções eficientes, escaláveis e seguras, evoluindo principalmente nas áreas de **Backend, Cloud e Arquitetura**.
-
-## 📫 Contato
-
-[LinkedIn](https://linkedin.com/in/eduardolopesilveira) •
-[GitHub](https://github.com/eduardoantoniolopes) •
-[Email](mailto:deveducontato@gmail.com)
+São Paulo, Brasil
