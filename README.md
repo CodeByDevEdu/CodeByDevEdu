@@ -2,7 +2,7 @@
 
 Backend · Java · Cloud · Dados
 
-Estudante de Análise e Desenvolvimento de Sistemas com Foco em Desenvolvimento Backend, Dados e Arquitetura de Software. Atualmente, Aprofundo Meus Estudos em Java, Spring Boot, Api's Rest e Tecnologias Cloud.
+Estudante de Análise e Desenvolvimento de Sistemas com foco em Desenvolvimento Backend, Dados e Arquitetura de Software. Atualmente, aprofundo meus estudos em Java, Spring Boot, Api's Rest e Tecnologias Cloud.
 
 ## Tecnologias
 
@@ -15,6 +15,30 @@ Estudante de Análise e Desenvolvimento de Sistemas com Foco em Desenvolvimento 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+Backend Development
+├── Java
+├── Spring Boot
+├── APIs REST
+└── Microsserviços
+
+Data
+├── SQL
+├── NoSQL
+└── Modelagem de Dados
+
+Cloud & DevOps
+├── AWS
+├── Docker
+├── Kubernetes
+├── Git
+└── CI/CD
+
+Software Architecture
+├── Arquitetura de Aplicações
+├── Sistemas Escaláveis
+├── Observabilidade
+└── Sistemas Distribuídos
 
 ## Contato
 
