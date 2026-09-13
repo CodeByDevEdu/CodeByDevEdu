@@ -2,9 +2,9 @@
 
 ### Backend Developer · Java · Cloud · Software Architecture
 
-`Estudante de **Análise e Desenvolvimento de Sistemas**, Com Foco em Desenvolvimento Backend, Api's, Dados e Arquitetura de Software`
+`Estudante de Análise e Desenvolvimento de Sistemas, Com Foco em Desenvolvimento Backend, Api's, Dados e Arquitetura de Software.`
 
-Atualmente Aprofundando Meus Estudos em **Java, Spring Boot, Microsserviços, Cloud e DevOps**.
+Atualmente Aprofundando Meus Estudos em `Java, Spring Boot, Microsserviços, Cloud e DevOps`.
 
 ## Tech Stack
 
