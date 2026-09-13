@@ -20,7 +20,7 @@ Atualmente Aprofundando Meus Estudos em `Java, Spring Boot, Microsserviços, Clo
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-## Atualmente estudando
+## Atualmente Estudando
 
 `Java` · `Spring Boot` · `Api's Rest` · `Microsserviços` · `Arquitetura` · `Aws`
 
