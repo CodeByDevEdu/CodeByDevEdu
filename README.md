@@ -30,17 +30,4 @@ Atualmente Aprofundando Meus Estudos em `Java, Spring Boot, Microsserviços, Clo
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/eduardoantoniolopes)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:deveducontato@gmail.com)
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/CodeByDevEdu/CodeByDevEdu/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/CodeByDevEdu/CodeByDevEdu/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution snake"
-    src="https://raw.githubusercontent.com/CodeByDevEdu/CodeByDevEdu/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+
