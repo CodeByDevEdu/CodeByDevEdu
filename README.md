@@ -1,4 +1,4 @@
-# Eduardo Lopes
+# Eduardo Lafaiety
 
 ### Backend Developer · Java · Cloud · Software Architecture
 
